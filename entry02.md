@@ -9,3 +9,8 @@ My decision is to use the textfile version even if it hurts a bit, but my experi
 
 I think it's a bit frustrating not to have a WYSIWYG tool for writing md-files. But I found one that I think works pretty well. I case you haven't tried, here it is: http://dillinger.io/
 "Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor."
+
+-------------
+### Comments
+
+[David](http://blog.krawaller.se/riaguild2015/#/member/krawaller): Excellent tip with Dillinger, thank you for that, Ulrika! Added it to the [blog resource page](https://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/blog-2/).
