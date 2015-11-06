@@ -8,3 +8,9 @@ I installed:
 * WebStorm
 
 Then I downloaded the Demo App and it worked like a charm.
+
+---
+
+### Comments
+
+[David](http://blog.krawaller.se/riaguild2015/#/member/krawaller): Ulrika for president! :D
